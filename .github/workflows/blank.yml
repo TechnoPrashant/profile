@@ -11,8 +11,6 @@ jobs:
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
-
-      
         with:
           target_branch: output
           build_dir: dist
